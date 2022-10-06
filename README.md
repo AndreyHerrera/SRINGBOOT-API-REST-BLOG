@@ -1,3 +1,3 @@
 ***
-![](docs/Welcome-README.png)
+![](docs/Welcome-README.jpg)
 ***
